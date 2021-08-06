@@ -6,3 +6,4 @@ test
 수정과 add/commit
 한번에 push
 두번째시도
+add와 commit을 한번에처리
